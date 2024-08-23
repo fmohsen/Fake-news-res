@@ -1,0 +1,10 @@
+.idea/
+
+cache/
+datasets/
+
+__pycache__/
+
+data_for_feature_extraction.csv
+
+pickles/
