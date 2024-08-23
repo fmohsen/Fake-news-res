@@ -1,0 +1,6 @@
+1. Scraped dataset
+2. FA-KES - syrian war dataset
+3. Merged dataset
+4. Dataset 1 from Kaggle
+5. Dataset 2 from Kaggle
+6. WELFake
